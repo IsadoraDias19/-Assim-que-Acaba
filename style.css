@@ -1,0 +1,81 @@
+body {
+    margin: 0px 120px 0px 120px;
+    background-image: url("imagem/fundo.webp");
+}
+
+.titulo{
+    color: rgb(247, 192, 147);
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: rgb(240, 87, 197);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+}
+.barra{
+    text-align:center;
+    border-radius: 20px;
+    width: 2050;
+  height: 200;
+}
+.INICIO {
+    color: rgb(247, 192, 147);
+}
+
+h3 {
+    color: rgb(120, 7, 81);
+    display: flex;
+    align-items: center;
+}
+
+mark {
+    background-color: rgb(255, 57, 202);
+    color:  rgb(120, 7, 81);
+}
+
+nav {
+    border-bottom: 30px solid rgb(255, 255, 255);
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    background-color: rgb(249, 57, 198);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px
+}
+
+h2,h1 {
+    color: rgb(120, 7, 81);
+    text-align: center;
+    background-color: rgb(247, 200, 142);
+}
+
+.baixo {
+    text-align: center;
+}
+a{
+    color: rgb(120, 7, 81); ;
+    background-color: rgb(247, 200, 142);
+}
+li{
+    color: rgb(120, 7, 81);
+}
+p{
+    color:white
+}
+.TRAILER,h4{
+    text-align: center;
+    color: rgb(120, 7, 81);;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 70%;
+}
+
+ table, th, td{
+    border: 4px solid black;
+    background-color:rgb(246, 89, 180) ;
+}
